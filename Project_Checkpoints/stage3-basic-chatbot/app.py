@@ -1,7 +1,7 @@
 """
-Groq Chatbot - Stage 3 Template
+Groq Chatbot - Stage 3 Checkpoint
 
-This template includes a basic Streamlit UI with Groq API integration.
+This Checkpoint includes a basic Streamlit UI with Groq API integration.
 It's a functional chatbot but without advanced customization options.
 """
 

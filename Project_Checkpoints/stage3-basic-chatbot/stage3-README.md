@@ -1,8 +1,8 @@
 # Stage 3: Basic Chatbot
 
-[← Back to Templates](../README.md) | [← Back to Main README](../../README.md)
+[← Back to Checkpoints](../README.md) | [← Back to Main README](../../README.md)
 
-This template includes a functional chatbot with basic Groq API integration, but without advanced customization options.
+This Checkpoint includes a functional chatbot with basic Groq API integration, but without advanced customization options.
 
 ## Contents
 
@@ -42,7 +42,7 @@ This template includes a functional chatbot with basic Groq API integration, but
    streamlit run app.py
    ```
 
-## What This Template Includes
+## What This Checkpoint Includes
 
 - A complete Streamlit UI with:
   - Chat interface
@@ -56,7 +56,7 @@ This template includes a functional chatbot with basic Groq API integration, but
 
 ## Next Steps
 
-Now that you have a working chatbot, you can add advanced customization options like model selection, temperature control, character personas, etc. You can either modify this template yourself or use the Stage 4 template that has all the customization options pre-built.
+Now that you have a working chatbot, you can add advanced customization options like model selection, temperature control, character personas, etc. You can either modify this Checkpoint yourself or use the Stage 4 Checkpoint that has all the customization options pre-built.
 
 ## File Structure
 
@@ -69,4 +69,4 @@ stage3-basic-chatbot/
 └── README.md           # This file
 ```
 
-[← Back to Templates](../README.md) | [← Back to Main README](../../README.md)
+[← Back to Checkpoints](../README.md) | [← Back to Main README](../../README.md)

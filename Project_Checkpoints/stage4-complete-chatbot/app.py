@@ -1,5 +1,5 @@
 """
-Groq Chatbot - Stage 4 Template
+Groq Chatbot - Stage 4 Checkpoint
 
 This is the complete chatbot with all customization features:
 - Model selection
@@ -205,6 +205,6 @@ st.markdown("""
 **Resources**:
 - [📋 Chatbot Workshop Cheat Sheets](../../Cheat_Sheets/README.md)
 - [💻 Code Snippets](../../Code_Snippets/README.md)
-- [🚀 Project Templates](../../Project_Templates/README.md)
+- [🚀 Project Checkpoints](../../Project_Checkpoints/README.md)
 """)
 st.caption("Created in the Groq Chatbot Workshop")

@@ -1,6 +1,6 @@
 # Stage 1: Basic Setup
 
-[← Back to Templates](../README.md) | [← Back to Main README](../../README.md)
+[← Back to Checkpoints](../README.md) | [← Back to Main README](../../README.md)
 
 This is the initial project setup with the basic structure needed to begin your chatbot project.
 
@@ -41,7 +41,7 @@ This is the initial project setup with the basic structure needed to begin your 
 
 ## Next Steps
 
-After completing these setup steps, you're ready to move on to building the Streamlit UI. You can either continue with this template and build the UI yourself or use the Stage 2 template that has the basic UI pre-built.
+After completing these setup steps, you're ready to move on to building the Streamlit UI. You can either continue with this Checkpoint and build the UI yourself or use the Stage 2 Checkpoint that has the basic UI pre-built.
 
 ## File Structure
 
@@ -54,4 +54,4 @@ stage1-basic-setup/
 └── README.md           # This file
 ```
 
-[← Back to Templates](../README.md) | [← Back to Main README](../../README.md)
+[← Back to Checkpoints](../README.md) | [← Back to Main README](../../README.md)

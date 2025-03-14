@@ -1,7 +1,7 @@
 """
-Groq Chatbot - Stage 2 Template
+Groq Chatbot - Stage 2 Checkpoint
 
-This template includes a basic Streamlit UI for the chatbot,
+This Checkpoint includes a basic Streamlit UI for the chatbot,
 but does not yet have any API integration.
 """
 
@@ -53,7 +53,7 @@ if user_input:
     with st.chat_message("user"):
         st.markdown(user_input)
     
-    # In this template, we'll just echo the user's message as a placeholder
+    # In this Checkpoint, we'll just echo the user's message as a placeholder
     # In later stages, this will be replaced with actual API calls
     placeholder_response = f"You said: '{user_input}'\n\n(This is just a placeholder response. API integration will be added in the next stage.)"
     

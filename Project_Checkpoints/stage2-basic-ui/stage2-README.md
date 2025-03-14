@@ -1,8 +1,8 @@
 # Stage 2: Basic Streamlit UI
 
-[← Back to Templates](../README.md) | [← Back to Main README](../../README.md)
+[← Back to Checkpoints](../README.md) | [← Back to Main README](../../README.md)
 
-This template includes a basic Streamlit UI for your chatbot, with a chat interface but no API integration yet.
+This Checkpoint includes a basic Streamlit UI for your chatbot, with a chat interface but no API integration yet.
 
 ## Contents
 
@@ -42,7 +42,7 @@ This template includes a basic Streamlit UI for your chatbot, with a chat interf
    streamlit run app.py
    ```
 
-## What This Template Includes
+## What This Checkpoint Includes
 
 - A complete Streamlit UI with:
   - Chat interface
@@ -52,7 +52,7 @@ This template includes a basic Streamlit UI for your chatbot, with a chat interf
 
 ## Next Steps
 
-After testing the UI, you can integrate the Groq API to make your chatbot respond to user inputs. You can either modify this template yourself or use the Stage 3 template that has the basic API integration pre-built.
+After testing the UI, you can integrate the Groq API to make your chatbot respond to user inputs. You can either modify this Checkpoint yourself or use the Stage 3 Checkpoint that has the basic API integration pre-built.
 
 ## File Structure
 
@@ -65,4 +65,4 @@ stage2-basic-ui/
 └── README.md           # This file
 ```
 
-[← Back to Templates](../README.md) | [← Back to Main README](../../README.md)
+[← Back to Checkpoints](../README.md) | [← Back to Main README](../../README.md)

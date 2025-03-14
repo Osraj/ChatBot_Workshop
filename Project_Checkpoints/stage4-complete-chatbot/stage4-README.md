@@ -1,6 +1,6 @@
 # Stage 4: Complete Customized Chatbot
 
-[← Back to Templates](../README.md) | [← Back to Main README](../../README.md)
+[← Back to Checkpoints](../README.md) | [← Back to Main README](../../README.md)
 
 This is the complete chatbot project with all customization features implemented.
 
@@ -43,7 +43,7 @@ This is the complete chatbot project with all customization features implemented
    streamlit run app.py
    ```
 
-## What This Template Includes
+## What This Checkpoint Includes
 
 - A complete Streamlit UI with:
   - Chat interface
@@ -64,7 +64,7 @@ This is the complete chatbot project with all customization features implemented
 
 ## Features to Explore
 
-This template demonstrates several key concepts:
+This Checkpoint demonstrates several key concepts:
 
 1. **Session State Management**: Using Streamlit's session state to preserve chat history and settings
 
@@ -78,7 +78,7 @@ This template demonstrates several key concepts:
 
 ## Further Enhancements
 
-Some ideas for enhancing this template:
+Some ideas for enhancing this Checkpoint:
 
 - Add file upload for document Q&A
 - Implement chat history saving and loading
@@ -98,4 +98,4 @@ stage4-complete-chatbot/
 └── README.md           # This file
 ```
 
-[← Back to Templates](../README.md) | [← Back to Main README](../../README.md)
+[← Back to Checkpoints](../README.md) | [← Back to Main README](../../README.md)

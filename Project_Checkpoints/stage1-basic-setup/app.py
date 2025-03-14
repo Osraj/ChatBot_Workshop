@@ -1,5 +1,5 @@
 """
-Groq Chatbot - Stage 1 Template
+Groq Chatbot - Stage 1 Checkpoint
 
 This is a placeholder file that will be used to build the chatbot application.
 At this stage, it's just a blank Streamlit app.
@@ -18,7 +18,7 @@ st.set_page_config(
 st.title("🤖 Groq Chatbot")
 
 # Add a welcome message
-st.write("Welcome to the Groq Chatbot workshop! This is a starter template.")
+st.write("Welcome to the Groq Chatbot workshop! This is a starter Checkpoint.")
 
 # Add a divider
 st.divider()

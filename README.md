@@ -13,7 +13,7 @@ A 2-day workshop to build a customized chatbot using Groq API and Streamlit.
 - [📋 All Cheat Sheets](Cheat_Sheets/README.md)
 - [📊 System Architecture](Diagrams/architecture.md)
 - [💻 Code Snippets](Code_Snippets/README.md)
-- [🚀 Project Templates](Project_Templates/README.md)
+- [🚀 Project Checkpoints](Project_Checkpoints/README.md)
 
 ## Prerequisites
 
@@ -157,16 +157,16 @@ python-dotenv>=1.0.0
 GROQ_API_KEY=your_groq_api_key_here
 ```
 
-## Project Templates
+## Project Checkpoints
 
-To make it easier to follow along, we've created project templates at different stages:
+To make it easier to follow along, we've created project checkpoints at different stages:
 
-- [Stage 1: Basic Setup](Project_Templates/stage1-basic-setup) - Environment and dependencies
-- [Stage 2: Basic Streamlit UI](Project_Templates/stage2-basic-ui) - Simple UI without API calls
-- [Stage 3: Basic Chatbot](Project_Templates/stage3-basic-chatbot) - Chatbot with basic Groq integration
-- [Stage 4: Complete Chatbot](Project_Templates/stage4-complete-chatbot) - Fully customized chatbot
+- [Stage 1: Basic Setup](Project_Checkpoints/stage1-basic-setup) - Environment and dependencies
+- [Stage 2: Basic Streamlit UI](Project_Checkpoints/stage2-basic-ui) - Simple UI without API calls
+- [Stage 3: Basic Chatbot](Project_Checkpoints/stage3-basic-chatbot) - Chatbot with basic Groq integration
+- [Stage 4: Complete Chatbot](Project_Checkpoints/stage4-complete-chatbot) - Fully customized chatbot
 
-If you fall behind during the workshop, you can copy one of these templates to catch up.
+If you fall behind during the workshop, you can copy one of these checkpoints to catch up.
 
 ## Building the Chatbot
 

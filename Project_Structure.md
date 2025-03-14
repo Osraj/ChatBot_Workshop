@@ -34,8 +34,8 @@ groq-chatbot/
 │   ├── groq-snippets.md                # Groq API integration snippets
 │   └── customization-snippets.md       # Chatbot customization snippets
 │
-├── Project_Templates/             # Project templates at different stages
-│   ├── README.md                       # Templates index
+├── Project_Checkpoints/             # Project checkpoint at different stages
+│   ├── README.md                       # checkpoint index
 │   ├── stage1-basic-setup/             # Basic project structure
 │   ├── stage2-basic-ui/                # Simple UI without API calls
 │   ├── stage3-basic-chatbot/           # Basic chatbot with Groq
