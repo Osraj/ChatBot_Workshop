@@ -202,9 +202,10 @@ if user_input:
 # Add a footer with resources
 st.divider()
 st.markdown("""
-**Resources**:
-- [📋 Chatbot Workshop Cheat Sheets](../../Cheat_Sheets/README.md)
-- [💻 Code Snippets](../../Code_Snippets/README.md)
-- [🚀 Project Checkpoints](../../Project_Checkpoints/README.md)
+**Workshop Resources**:
+- [📋 Chatbot Workshop Cheat Sheets](https://github.com/Osraj/ChatBot_Workshop/blob/main/Cheat_Sheets/README.md)
+- [💻 Code Snippets](https://github.com/Osraj/ChatBot_Workshop/blob/main/Code_Snippets/README.md)
+- [🚀 Project Checkpoints](https://github.com/Osraj/ChatBot_Workshop/blob/main/Project_Checkpoints/README.md)
+- [📚 Additional Documentation](https://github.com/Osraj/ChatBot_Workshop)
 """)
 st.caption("Created in the Groq Chatbot Workshop")
